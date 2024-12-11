@@ -1,0 +1,46 @@
+.container{
+    display:flex;
+    width: 100%;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    /* justify content used for horizontal space here */
+    justify-content: space-between;
+    padding: 5px;
+    background-color: #f4f4f4;
+}
+
+.navbar .brand {
+    margin: 0; /* Remove default margin */
+    font-size: 24px; /* Adjust font size if necessary */
+  }
+
+  .navbar .search {
+    margin: 0 10px; /* Add spacing around the search box */
+  }
+
+nav{
+    display: flex;
+}
+.nav-links {
+    display: flex; /* Use flexbox for horizontal alignment */
+    gap: 15px; /* Add space between links */
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-links li {
+    margin: 0;
+  }
+
+  .nav-links a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Adjust color */
+    padding: 5px 10px; /* Optional: Add padding around links */
+  }
+
+  .nav-links a:hover {
+    background-color: #ddd; /* Optional: Add hover effect */
+    border-radius: 4px; /* Optional: Add rounded corners */
+  }

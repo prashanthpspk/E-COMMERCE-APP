@@ -1,0 +1,47 @@
+{
+  "signup": [
+    {},
+    {
+      "id": "2bf7",
+      "name": "pras",
+      "password": "abc@123",
+      "email": "pras@gmail.com"
+    },
+    {
+      "id": "2958",
+      "name": "yash",
+      "password": "def@123",
+      "email": "yash@gmail.com"
+    },
+    {
+      "id": "845e",
+      "username": "ShanksGriffon",
+      "password": "daaaa",
+      "email": "dilucleon88@gmail.com"
+    },
+    {
+      "id": "23a2",
+      "username": "gear5 luffy",
+      "password": "hahahah",
+      "email": "luffy@gmail.com"
+    },
+    {
+      "id": "f9c4",
+      "username": "raju",
+      "password": "ajkds",
+      "email": "raju@gmail.com"
+    },
+    {
+      "id": "474f",
+      "username": "Akagami No Shanks",
+      "password": "aaaaaaa",
+      "email": "dilucleon88@gmail.com"
+    },
+    {
+      "id": "7410",
+      "username": "Nami ",
+      "password": "onepice",
+      "email": "nami@gmail.com"
+    }
+  ]
+}

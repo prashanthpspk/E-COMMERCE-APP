@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="sign-up">
+        <h1>Sign Up</h1>
+
+        <form #reference="ngForm" (ngSubmit)="onSubmit(reference.value)">
+            <input type="text" name="username" ngModel placeholder="Enter Username"><br><br>
+
+            <input type="password" name="password" ngModel placeholder="Enter Password"><br><br>
+
+            <input type="email" name="email" ngModel placeholder="Enter Email"><br><br>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</div>
