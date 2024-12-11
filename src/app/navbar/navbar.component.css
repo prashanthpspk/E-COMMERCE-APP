@@ -27,6 +27,7 @@ nav{
     display: flex; /* Use flexbox for horizontal alignment */
     gap: 15px; /* Add space between links */
     margin: 0;
+    
     padding: 0;
   }
 
